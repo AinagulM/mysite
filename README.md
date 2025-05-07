@@ -1,6 +1,19 @@
 
 <html>
- 
+ <style>
+{
+    background-color: #ADD8E6; /* Голубой фон */
+    font-size: 20px; /* Размер основного текста */
+    color: black; /* Цвет основного текста */
+    font-family: "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold; /* Полужирное начертание */
+    color: blue; /* Синий цвет заголовков */
+    text-align: center; /* Выравнивание заголовков по центру */
+}
+</style>
 <body>
  <header>
     <h1>Портфолио педагога</h1>
