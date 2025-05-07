@@ -1,17 +1,16 @@
 
 <html>
- <head>
-  <style>
-   body{background-color: #ADD8E6; 
+   <style>
+    { background-color: rgb(44, 165, 205); 
     font-size: 20px;
     color: black; 
     font-family: "Times New Roman";}
-  h1 {
+  h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     color: blue; 
     text-align: center; }
    </style>
- </head>
+ 
 <body>
 
  <header>
@@ -25,6 +24,7 @@
     </section>
    <section>
         <h2>Достижения моих учеников</h2>
+     <section>
       <ul>
         <li>Алибеков Жангир Призер областной сельской олимпиады по информатике — 2023 год </li>
         <li>Алибеков Жангир Призер областной сельской олимпиады по информатике- 2024 год </li>
