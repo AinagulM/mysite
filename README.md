@@ -1,14 +1,17 @@
 
 <html>
    <style>
-    { background-color: rgb(44, 165, 205); 
+    { 
+      background-color: rgb(44, 165, 205); 
     font-size: 20px;
     color: black; 
-    font-family: "Times New Roman";}
+    font-family: "Times New Roman";
+      }
   h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     color: blue; 
-    text-align: center; }
+    text-align: center; 
+    }
    </style>
  
 <body>
