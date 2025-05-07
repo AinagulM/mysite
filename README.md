@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center; /* Выравнивание заголовков по центру */
 }
 </style>
-<head>
+</head>
 <body>
  <header>
     <h1>Портфолио педагога</h1>
