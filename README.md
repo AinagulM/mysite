@@ -3,7 +3,7 @@
    <head>
    <style>
     { 
-   font-size: 20px;
+   font-size: 20 px;
     color: black; 
     font-family: "Times New Roman";
       }
@@ -15,7 +15,7 @@
    </style>
    </head>
  
-<body bgcolor=rgb(44, 165, 205)>
+<body bgcolor:rgb(44, 165, 205)>
 
  <header>
     <h1>Портфолио педагога</h1>
