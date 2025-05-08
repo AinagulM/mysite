@@ -1,9 +1,9 @@
 
 <html>
+   <head>
    <style>
     { 
-      background-color: rgb(44, 165, 205); 
-    font-size: 20px;
+   font-size: 20px;
     color: black; 
     font-family: "Times New Roman";
       }
@@ -13,8 +13,9 @@
     text-align: center; 
     }
    </style>
+   </head>
  
-<body>
+<body bgcolor=rgb(44, 165, 205)>
 
  <header>
     <h1>Портфолио педагога</h1>
