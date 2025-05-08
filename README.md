@@ -15,7 +15,7 @@
    </style>
    </head>
  
-<body bgcolor:rgb(44, 165, 205)>
+<body bgcolor=red>
 
  <header>
     <h1>Портфолио педагога</h1>
