@@ -15,7 +15,7 @@
    </style>
    </head>
  
-<body bgcolor=red>
+<body>
 
  <header>
     <h1>Портфолио педагога</h1>
